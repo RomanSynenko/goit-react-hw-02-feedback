@@ -1,0 +1,1 @@
+export const FEEDBASK_OPTIONS = ['good', 'neutral', 'bad'];
